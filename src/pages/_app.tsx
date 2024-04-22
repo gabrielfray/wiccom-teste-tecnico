@@ -1,8 +1,6 @@
 import React from "react";
-
 import type { AppProps } from "next/app";
 import Layout from "@/components/layout";
-
 import "@/styles/swiperStyles.css";
 import GlobalStyles from "@/styles/GlobalStyles";
 

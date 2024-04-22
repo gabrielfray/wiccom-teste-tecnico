@@ -7,7 +7,6 @@ import "swiper/css/navigation";
 
 import Image from "next/image";
 import * as Styled from "./styles";
-import useLocalStorage from "@/hooks/useLocalStorage";
 import { NavigationOptions } from "swiper/types";
 import useStoreContext from "@/context";
 

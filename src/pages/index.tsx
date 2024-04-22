@@ -1,7 +1,6 @@
 import Seo from "@/components/seo";
 import About from "@/components/about";
 import BannerCarousel from "@/components/bannerCarousel";
-import BannerModal from "@/components/bannerModal";
 import ImageSection from "@/components/imageSection";
 import MultiCarousel from "@/components/multiCarousel";
 import PaymentBanner from "@/components/paymentBanner";
@@ -10,7 +9,6 @@ import ProductsSectionHighlight from "@/components/productsSectionHighlight";
 import RegisterSection from "@/components/register";
 import SplitedSection from "@/components/splited";
 import WeekFavorites from "@/components/weekFavorites";
-
 import * as Carrousel from "@/components/carrousel";
 
 const HomePage = () => {
