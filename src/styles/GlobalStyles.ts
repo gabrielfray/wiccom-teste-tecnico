@@ -131,8 +131,8 @@ time, mark, audio, video, main {
   cursor: default;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+aside, details, figcaption, figure, 
+footer, header, nav, section {
 	display: block;
 }
 body {
@@ -140,18 +140,6 @@ body {
 }
 ol, ul {
 	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
 }
 
 #__next {
